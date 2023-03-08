@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-modulo 2 de prepcours de henry pime
+este proyecto es una prueba potente de lo que la mente humana puede hacer
